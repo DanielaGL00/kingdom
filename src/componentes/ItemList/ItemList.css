@@ -1,0 +1,10 @@
+.contenedorProductos {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    flex-wrap: wrap;
+}
