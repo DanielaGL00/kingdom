@@ -31,15 +31,21 @@
   position: relative;
 }
 .title {
-  color: #363e4f;
+  color: #333333;
   text-align: left;
-  font: 400 14px/22px "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
   position: relative;
   align-self: stretch;
 }
 p {
   color:  #181a1f;
-  text-align: left;
+  text-align: center;
   font: 600 14px/22px "Poppins", sans-serif;
   position: relative;
+}
+
+.enlace {
+  color: #D51946;
 }

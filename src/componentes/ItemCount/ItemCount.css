@@ -1,0 +1,23 @@
+.contadorProductos {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+
+}
+
+.buttonContador {
+        background-color: #979499;
+        border-radius: 8px;
+        border: none;
+        display: inline-block;
+        color: #FFFFFF;
+        width: auto;
+        padding: 10px;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        text-decoration: none;
+}

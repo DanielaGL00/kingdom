@@ -7,4 +7,6 @@
     flex-shrink: 0;
     position: relative;
     flex-wrap: wrap;
-}
+    margin: 24px;
+    justify-content: center;
+} 

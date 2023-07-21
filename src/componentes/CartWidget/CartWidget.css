@@ -1,0 +1,27 @@
+.enlaceCarrito {
+    background: #D51946;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: #FFFFFF;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: none;
+    color: #D51946;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}

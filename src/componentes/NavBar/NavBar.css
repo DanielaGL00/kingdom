@@ -11,5 +11,12 @@ li {
     display: inline-block;
     margin: 1rem;
     cursor: pointer;
+}
+
+a{
     color: #61708F;
 }
+
+a:hover {
+    color: #961231;
+  }

@@ -1,0 +1,15 @@
+.CartItem {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 400px;
+    margin: auto;
+}
+
+.CartItem button {
+    display: flex;
+    color: #D51946;
+    align-self: center;
+    background-color: #F3F3F3;
+
+}
